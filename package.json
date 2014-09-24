@@ -13,14 +13,25 @@
     "apache"
   ],
   "dependencies": {
-    "shelljs": "^0.1.4",
-    "adm-zip": "0.4.4"
+    "adm-zip": "0.4.4",
+    "moz-deploy-b2g": "0.0.2",
+    "moz-start-b2g": "0.0.6",
+    "shelljs": "^0.1.4"
   },
   "author": "Apache Software Foundation",
   "contributors": [
-      {"name": "James Long","email": "jlong@mozilla.com"},
-      {"name": "Herm Wong", "email": "hermanw@adobe.com"},
-      {"name": "Steve Gill", "email": "steveng@adobe.com"}
+    {
+      "name": "James Long",
+      "email": "jlong@mozilla.com"
+    },
+    {
+      "name": "Herm Wong",
+      "email": "hermanw@adobe.com"
+    },
+    {
+      "name": "Steve Gill",
+      "email": "steveng@adobe.com"
+    }
   ],
   "license": "Apache Version 2.0"
 }
